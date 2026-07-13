@@ -10,6 +10,8 @@ Milk. Ibuprofen. Your passport. The laptop warranty. The water filter. The smoke
 
 perish is a small, fast web app that keeps the dates so you don't have to — and it does it without an account, without a server, and without ever seeing your data.
 
+![p](https://github.com/bell-kevin/perish/blob/main/docs/Screenshot%20from%202026-07-13%2012-31-00.png)
+
 ## Why it's different
 
 - **Everything, not just food.** Most expiry apps stop at the pantry. perish tracks eight categories: food, medicine, personal care, documents, warranties, subscriptions, household intervals (filters, batteries, extinguisher checks), and other.
