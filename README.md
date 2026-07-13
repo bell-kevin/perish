@@ -4,7 +4,7 @@
 
 # perish
 
-https://perish.site/
+https://perish.site
 
 **A local-first ledger of things that end.**
 
