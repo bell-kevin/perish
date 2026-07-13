@@ -4,6 +4,8 @@
 
 # perish
 
+https://perish.site/
+
 **A local-first ledger of things that end.**
 
 Milk. Ibuprofen. Your passport. The laptop warranty. The water filter. The smoke-detector battery. Everything in your life has a date on it, and you are currently storing all of those dates in your head, where they quietly expire along with the mayonnaise.
