@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-# 
-
 # perish
 
 https://perish.site
